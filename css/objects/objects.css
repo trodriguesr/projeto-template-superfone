@@ -57,6 +57,7 @@
     color: #dbdbdb;
     position: absolute;
     z-index: -1;
+    margin-top: 91px;
 }
 #article > h1
 {
@@ -66,6 +67,7 @@
     font-weight: bold;
     text-align: center;
     color: #488cf5;
+    margin-top: 130px;
 }
 #article > h2
 {
