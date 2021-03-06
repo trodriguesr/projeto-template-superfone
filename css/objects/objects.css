@@ -45,3 +45,35 @@
 {
     background-color: #488cf5;
 }
+#article > span
+{
+    width: 444px;
+    height: 343px;
+    opacity: 0.35;
+    font-size: 288px;
+    font-weight: bold;
+    letter-spacing: 80px;
+    text-align: center;
+    color: #dbdbdb;
+    position: absolute;
+    z-index: -1;
+}
+#article > h1
+{
+    width: 504px;
+    height: 183px;
+    font-size: 54px;
+    font-weight: bold;
+    text-align: center;
+    color: #488cf5;
+}
+#article > h2
+{
+    width: 512px;
+    height: 90px;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #adadad;
+}

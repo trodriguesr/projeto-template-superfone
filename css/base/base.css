@@ -74,6 +74,10 @@ nav
 {
     flex-grow: 1;
 }
+article
+{
+	grid-area: article;
+}
 picture
 {
 	grid-area: picture;
