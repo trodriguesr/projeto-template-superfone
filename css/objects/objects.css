@@ -79,3 +79,40 @@
     text-align: center;
     color: #adadad;
 }
+.send-message{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 404;
+    height: 51px;
+    border-radius: 26px;
+    box-shadow: 3px 3px 3px 0 rgba(0, 0, 0, 0.16);
+    -webkit-box-shadow: 3px 3px 3px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+}
+.send-message > i > img
+{
+    padding-left: 15px;    
+}
+.send-message input
+{
+    border: none;
+    width: 300px;
+}
+.send-message > button
+{
+    width: 80px;
+    height: 40px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    background-color: #488cf5;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+}
+.send-message > button:hover
+{
+    background-color: #f4891f;
+}
